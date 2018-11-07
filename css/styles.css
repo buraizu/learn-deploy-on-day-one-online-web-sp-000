@@ -337,6 +337,14 @@ a:visited {
   border-top: 1px dotted #85929d;
 }
 
+#firstname-lastname-cover {
+  background-image: url("https://imgur.com/Ogw5l4Z");
+}
+ 
+  #firstname-lastname-card {
+  background-image: url("https://imgur.com/Q4Md7eS");
+}
+
 /* MEDIA QUERIES
 ======================== */
 @media only screen and (min-width: 480px) {
